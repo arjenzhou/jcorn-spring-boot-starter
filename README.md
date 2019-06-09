@@ -1,5 +1,5 @@
 ## NOTE
-The starter is NOT publish to central maven repository, please use it after `mvn install`
+The starter is NOT publish to maven central repository, please use it after `mvn install`
 
 ## HOW TO USE
 Please refer to [jcorn-spring-boot-starter-demo](https://github.com/arjenzhou/jcorn-spring-boot-starter-demo)
